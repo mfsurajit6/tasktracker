@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Brought Milk",
+      "day": "Nov 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Brought Bread",
+      "day": "Nov 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Learn React",
+      "day": "Today",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Status Update",
+      "day": "today",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Send mail",
+      "day": "today",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
